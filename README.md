@@ -1,0 +1,1 @@
+To launch our software, execute the file with the command python ToolsManager.py in CMD or in any code editor. 
